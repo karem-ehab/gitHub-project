@@ -4,7 +4,7 @@ body {
 
 
 .box {
-    background-color: white;
+    background-color: green;
     height: 100vh;
     width: 100%;
     display: flex;
